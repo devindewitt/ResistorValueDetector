@@ -21,3 +21,7 @@ Structure
 I am unsure on the basic CNN structure I will be attempting to use. My plan is to currently build the network 
 from scratch and follow a well documented and proven process. I am doing this to become more proficient in building 
 and understanding both CNN and NN architecture.
+
+I plan to use data augmentation to reduce the total number of images I will need to curate for the training process. 
+Mirroring, rotation, shearing, and color shifting all seem reasonable approaches when working with resistors and other
+analog components.
